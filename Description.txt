@@ -1,0 +1,6 @@
+Analysing the diffration patterns for square apperture
+Input
+-Diffraction data (numerical values of sin_theta and sin_phi)
+Output
+-Visulization of diffraction pattern
+-Fitted function for input data
